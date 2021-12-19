@@ -12,7 +12,7 @@
 
 ### OpenMP
 ![image](https://user-images.githubusercontent.com/72309577/146661431-83a6972c-726a-4e3a-b406-335d9876e36c.png)
-(кликните для просмотра таблицы в полном разрешении)
+(кликните на таблицу для просмотра в полном разрешении)
 
 ![image](https://user-images.githubusercontent.com/72309577/146650194-8d26700a-522c-4f27-941c-3da930a78dd6.png)
 
