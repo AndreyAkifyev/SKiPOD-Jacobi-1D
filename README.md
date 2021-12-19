@@ -11,14 +11,14 @@
 Замеры производились на IBM Polus 3 раза, затем усреднялись.
 
 ### OpenMP
-![image](https://user-images.githubusercontent.com/72309577/146650678-8f83daa9-cc24-478f-bbea-d78e99a7e8d2.png)
+![image](https://user-images.githubusercontent.com/72309577/146661431-83a6972c-726a-4e3a-b406-335d9876e36c.png)
 
 
 ![image](https://user-images.githubusercontent.com/72309577/146650194-8d26700a-522c-4f27-941c-3da930a78dd6.png)
 
 
 ### MPI
-![image](https://user-images.githubusercontent.com/72309577/146661048-e36376c6-6935-453f-babf-d24bd3770b58.png)
+![image](https://user-images.githubusercontent.com/72309577/146661409-74358a9e-e5ae-47fa-bd00-b227a26dd3b1.png)
 
 
 ![image](https://user-images.githubusercontent.com/72309577/146660914-040dae30-48c4-4dfa-a4db-2ab31a9375fe.png)
